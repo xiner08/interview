@@ -1,5 +1,7 @@
 ##  前端interview
 ### -------- vue篇 --------
+- [为什么使用vue开发项目时，data必须是函数](./vue/vue中data为什么是函数.md)
+
 
 ### -------- 手写篇 --------
 - [手写call、apply、bind](./手写/call、apply、bind.md)
