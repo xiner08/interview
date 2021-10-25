@@ -32,6 +32,11 @@
         isDragStart = false
       })
     }
+    unbind(el){
+      el.removeEventListener('mousedown')
+      el.removeEventListener('mousemove')
+      el.removeEventListener('mouseup')
+    }
   })
 ```
 ### 自动获取焦点指令的实现
