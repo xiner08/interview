@@ -4,6 +4,8 @@
 - [为什么使用vue开发项目时，data必须是函数](./vue/vue中data为什么是函数.md)
 - [v-model双向数据绑定的原理](./vue/v-model的原理.md)
 - [vue中$nextTick的原理](./vue/$nextTick的原理.md)
+- [手写弹框组件](./vue/手写弹框组件.md)
+- [vue自定义指令的使用](./vue/directive的使用.md)
 
 ### -------- 手写篇 --------
 - [手写call、apply、bind](./手写/call、apply、bind.md)
@@ -22,3 +24,4 @@
 
 ### -------- 算法篇 --------
 - [数组排序](./算法/数组排序.md)
+- [leetcode94-二叉树的中序遍历](./算法/leetcode94-二叉树的中序遍历.md)
