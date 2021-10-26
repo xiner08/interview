@@ -1,0 +1,15 @@
+### 项目优化
+- 页面加载优化
+  - 使用keep-alive组件，对组件进行缓存
+  - 组件使用按需加载
+  - 对图片进行压缩
+  - data中的不变的对象数据使用Object.freeze()
+  - v-if 中的表达式用computed来代替
+  - v-if和v-show
+    - v-if 会对组件进行销毁和重建，而v-show只是css的改变，如果一个组件频繁改变用v-show，反之用v-if 
+- 首屏渲染优化
+  - 路由使用懒加载(component: resolve => require(['@/module/h1'], resolve))
+- 打包优化
+  - 将静态文件放入到static目录下
+  - 使用cdn去加载一些比较大的依赖文件(externals 设置上，就不会打包到bundle里)
+  - 线上版本关闭sourcemap
