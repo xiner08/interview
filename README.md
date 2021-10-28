@@ -29,6 +29,8 @@
 ### -------- 算法篇 --------
 - [数组排序](./算法/数组排序.md)
 - [leetcode94-二叉树的中序遍历](./算法/leetcode94-二叉树的中序遍历.md)
+- [leetcode102-二叉树的层序遍历](./算法/leetcode102-二叉树的层序遍历.md)
+- [leetcode141-环形链表](./算法/leetcode141-环形链表.md)
 
 ### -------- webpack篇 --------
 -  [为什么dundle上要加hash](./webpack/bundle上为什么要加hash.md)
