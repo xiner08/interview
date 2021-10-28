@@ -34,3 +34,6 @@
 
 ### -------- webpack篇 --------
 -  [为什么dundle上要加hash](./webpack/bundle上为什么要加hash.md)
+
+### -------- git篇 --------
+-  [merge和rebase的区别](./webpack/git和rebase.md)
