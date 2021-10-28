@@ -33,6 +33,7 @@
 - [leetcode141-环形链表](./算法/leetcode141-环形链表.md)
 
 ### -------- webpack篇 --------
+-  [webpack原理](./webpack/webpack原理.md)
 -  [为什么dundle上要加hash](./webpack/bundle上为什么要加hash.md)
 
 ### -------- git篇 --------
