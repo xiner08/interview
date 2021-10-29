@@ -18,6 +18,7 @@
 
 ### -------- js篇 --------
 - [eventloop](./js/eventloop.md)
+- [setTimeout和setInterval的区别](./js/setTimeout和setInterval.md) 
 
 ### -------- css篇 --------
 - [实现元素居中](./css/元素center.md)

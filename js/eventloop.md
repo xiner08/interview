@@ -29,3 +29,14 @@ console.log(5)
 // 输出结果
 3 6 5 7 8 1 2 4 4 4 4 4 ...
 ```
+
+### 宏任务和微任务
+- 宏任务 
+  - setTimeout   node和浏览器都支持
+  - setInterval  node和浏览器都支持
+  - setImmediate node支持
+  - requestAnimationFrame 只有浏览器支持
+- 微任务
+  - process.nextTick node支持
+  - MutationObserve 两者都支持( 观察dom树发生变化时，做出相应的回调)
+  - promise.then catch finally  两者都支持
