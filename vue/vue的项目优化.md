@@ -1,12 +1,15 @@
 ### 项目优化
 - 页面加载优化
-  - 使用keep-alive组件，对组件进行缓存
-  - 组件使用按需加载
+  - 使用keep-alive组件，对组件进行合理缓存
+  - 组件动态引入
   - 对图片进行压缩
   - data中的不变的对象数据使用Object.freeze()
   - v-if 中的表达式用computed来代替
   - v-if和v-show
     - v-if 会对组件进行销毁和重建，而v-show只是css的改变，如果一个组件频繁改变用v-show，反之用v-if 
+  - 三方插件 按需引入
+  - 防抖节流(项目基本都要用到)
+  - 使用iconfont代替小图标
 - 首屏渲染优化
   - 路由使用懒加载(component: resolve => require(['@/module/h1'], resolve))
 - 打包优化

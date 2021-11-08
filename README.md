@@ -7,6 +7,7 @@
 - [手写弹框组件](./vue/手写弹框组件.md)
 - [vue自定义指令的使用](./vue/directive的使用.md)
 - [vue的项目优化](./vue/vue的项目优化.md)
+- [vue3.0新特性](./vue/vue3.md)
 
 ### -------- 手写篇 --------
 - [手写call、apply、bind](./手写/call、apply、bind.md)
@@ -18,6 +19,8 @@
 
 ### -------- js篇 --------
 - [eventloop](./js/eventloop.md)
+- [es6新特性](./js/es6.md)
+- [箭头函数和普通函数的区别](./js/箭头函数和普通函数.md)
 - [setTimeout和setInterval的区别](./js/setTimeout和setInterval.md) 
 
 ### -------- css篇 --------
@@ -26,6 +29,11 @@
 
 ### -------- http篇 --------
 - [用户输入url到页面渲染经历了什么?](./http/url的解析的过程.md)
+- [浏览器的垃圾回收机制](./http/浏览器的垃圾回收机制.md)
+- [浏览器的缓存机制](./http/浏览器的缓存机制.md)
+- [http知识](./http/http知识.md)
+- [http状态码](./http/httpcode.md)
+- [web性能监控](./http/web性能监控.md)
 
 ### -------- 算法篇 --------
 - [数组排序](./算法/数组排序.md)
@@ -35,8 +43,9 @@
 - [leetcode141-环形链表](./算法/leetcode141-环形链表.md)
 
 ### -------- webpack篇 --------
--  [webpack原理](./webpack/webpack原理.md)
--  [为什么dundle上要加hash](./webpack/bundle上为什么要加hash.md)
+- [webpack原理](./webpack/webpack原理.md)
+- [webpack分包](./webpack/webpack分包.md)
+- [为什么dundle上要加hash](./webpack/bundle上为什么要加hash.md)
 
 ### -------- git篇 --------
--  [merge和rebase的区别](./webpack/git和rebase.md)
+- [merge和rebase的区别](./webpack/git和rebase.md)
